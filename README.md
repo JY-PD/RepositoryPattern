@@ -8,3 +8,5 @@ UsuarioRepositoryImpl
 Main  
 Funcionalidad  
 Permite almacenar y consultar usuarios utilizando una implementación sencilla basada en una lista en memoria.  
+
+Trabajo para la clase de Patrones de diseño 2026  
